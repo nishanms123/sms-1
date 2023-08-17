@@ -16,4 +16,9 @@ public class DeletedataTest {
 	{
 		System.out.println("----restored----");
 	}
+	@Test
+	public void restore1()
+	{
+		System.out.println("----restored----");
+	}
 }
