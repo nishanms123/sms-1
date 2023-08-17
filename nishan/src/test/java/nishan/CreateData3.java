@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class CreateData2 {
+public class CreateData3 {
 	
 	@Test(groups = "smoke")
 	public void createData()
