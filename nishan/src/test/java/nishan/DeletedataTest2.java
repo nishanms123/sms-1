@@ -2,7 +2,7 @@ package nishan;
 
 import org.testng.annotations.Test;
 
-public class DeletedataTest {
+public class DeletedataTest2 {
 
 	@Test
 	public void delete() {
@@ -15,5 +15,10 @@ public class DeletedataTest {
 	public void restore()
 	{
 		System.out.println("----restored----");
+	}
+	@Test
+	public void deleteeverything()
+	{
+		System.out.println("------sherlock----");
 	}
 }
