@@ -5,9 +5,8 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.annotations.Test;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class CreateData {
+public class CreateData1 {
 	
 	@Test(groups = "smoke")
 	public void createData()
