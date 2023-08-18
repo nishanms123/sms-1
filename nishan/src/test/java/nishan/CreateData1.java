@@ -27,7 +27,7 @@ public class CreateData1 {
 	@Test
 	public void updateData()
 	{
-		System.out.println("--updagfhfggte data---");
+		System.out.println("--updagfhfggtegxdfgdf data---");
 	}
 
 }
